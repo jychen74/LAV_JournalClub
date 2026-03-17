@@ -1,2 +1,11 @@
-# LabAnimal_Vet_JournalClub
-Journal club resources for laboratory animal veterinary medicine, including avian physiology, infection models, and experimental design.
+# Lab Animal Veterinary Journal Club
+
+This repository contains curated materials for journal club discussions in laboratory animal veterinary medicine.
+
+## Topics
+- Avian physiology
+- Infection & host response
+- Experimental design
+
+## Access
+👉 https://jychen74.github.io/LabAnimal_Vet_JournalClub/

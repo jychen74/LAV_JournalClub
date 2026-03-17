@@ -9,7 +9,7 @@ This repository contains curated materials for journal club discussions in labor
 
 ## Access
 
-👉 https://jychen74.github.io/LabAnimal_Vet_JournalClub/
+👉 https://jychen74.github.io/LAV_JournalClub/
 
 ### LAS Basic (實驗動物科學 - 基礎篇)
 

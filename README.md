@@ -4,9 +4,8 @@ This repository contains curated materials for journal club discussions in labor
 
 ## Topics
 
-- Avian physiology
-- Infection & host response
-- Experimental design
+- NCB LAV journal clud
+  - 實驗動物科學 (基礎篇)
 
 ## Access
 
